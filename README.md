@@ -50,7 +50,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1\. **Clone the Repository:**
 ```
-git clone https://github.com/shivam-0510/comic-book-store.git
+git clone https://github.com/shivam-0510/Backend-Assignment.git
 ```
 
 ### 2\. **Install Dependencies:**
